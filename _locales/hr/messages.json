@@ -1,7 +1,7 @@
 {
    "appdescription": {
       "description": "Regain control of the web and surf more securely.",
-      "message": "Preuzmite kontrolu nad webu i surfati sigurnije."
+      "message": "Preuzmite kontrolu nad webom i surfajte sigurnije."
    },
    "alldomains": {
       "description": "On All Domains",
@@ -21,7 +21,7 @@
    },
    "allowallblocked": {
       "description": "Allow All Blocked For Session",
-      "message": "Dopusti Sve Blokirane Za Sjednice"
+      "message": "Dopusti Sve Blokirane Za ovu Sesiju"
    },
    "annoyances": {
       "description": "Block Unwanted Content:",
@@ -29,59 +29,59 @@
    },
    "annoyancesdesc": {
       "description": "remove unwanted content from known ad / malware domains; domains gathered from <a href=http://winhelp2002.mvps.org/hosts.htm target=_blank>MVPS HOSTS</a>, <a href=http://hosts-file.net target=_blank>hpHOSTS (ad / tracking servers)</a>, <a href=http://pgl.yoyo.org/as/policy.php target=_blank>Peter Lowe's HOSTS Project</a>, <a href=http://www.malwaredomainlist.com/ target=_blank>MalwareDomainList.com</a>",
-      "message": "uklanjanje neželjenih sadržaja iz poznatih oglas / malware domena; domene prikupljeni s <a href=http://winhelp2002.mvps.org/hosts.htm target=_blank>MVPS HOSTS</a>, <a href=http://hosts-file.net target=_blank>hpHOSTS ( oglas / pracenje servera)</a>, <a href=http://pgl.yoyo.org/as/policy.php target=_blank>DOMACIN projekt Petera Lowe</a>, <a href=http://www.malwaredomainlist.com/ target=_blank>MalwareDomainList.com</a>"
+      "message": "ukloni neželjeni sadržaj iz poznatih oglasa / malware domena; domena prikupljenih sa <a href=http://winhelp2002.mvps.org/hosts.htm target=_blank>MVPS HOSTS</a>, <a href=http://hosts-file.net target=_blank>hpHOSTS ( oglas / pracenje servera)</a>, <a href=http://pgl.yoyo.org/as/policy.php target=_blank>DOMACIN projekt Petera Lowe</a>, <a href=http://www.malwaredomainlist.com/ target=_blank>MalwareDomainList.com</a>"
    },
    "annoyancesmode": {
       "description": "Unwanted Content Mode:",
-      "message": "Neželjene Nacin Sadržaj:"
+      "message": "Neželjeni Sadržajni Način:"
    },
    "annoyancesmodedesc": {
       "description": "Relaxed = whitelisted domains will not be blocked; Strict = domains in the unwanted domain list will be blocked even if whitelisted",
-      "message": "Opušteni = popisu dopuštenih domene nece biti blokiran; Strogi = domene u neželjenom popisu domena ce biti blokiran, cak i ako na bijeloj listi"
+      "message": "Opušteni = popis dopuštenih domens nece biti blokiran; Striktno = domene u neželjenom popisu domena će biti blokirane, čak i ako su na bijeloj listi"
    },
    "antisocialpopup": {
       "description": "Antisocial",
-      "message": "Nedruštven"
+      "message": "Antisocijalni"
    },
    "antisocial": {
       "description": "Antisocial Mode:",
-      "message": "Antisocijalni Nacin Rada:"
+      "message": "Antisocijalni Način Rada:"
    },
    "antisocialdesc": {
       "description": "always remove social widgets/buttons, even if whitelisted",
-      "message": "uvijek uklonite widgete / gumbe društvenih, cak i ako je na bijeloj listi"
+      "message": "uvijek uklonite društvane widgete / gumbe, čak i ako su na bijeloj listi"
    },
    "antisocialdesc2": {
       "description": "For more comprehensive blocking, check out <a href=https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij target=_blank>Ghostery</a>, <a href=https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo target=_blank>Disconnect</a>, <a href=https://chrome.google.com/webstore/detail/blur/epanfjkfahimkgomnigadpkobaefekcd target=_blank>Blur</a>, and/or <a href=https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm target=_blank>uBlock Origin</a> with all of the subscription lists on the <a href=https://www.fanboy.co.nz/ target=_blank>Fanboy site</a>",
-      "message": "Za više sveobuhvatan blokade, provjerite <a href=https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij target=_blank>Ghostery</a>, <a href=https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo target=_blank>Odspoji</a>, <a href=https://chrome.google.com/webstore/detail/blur/epanfjkfahimkgomnigadpkobaefekcd target=_blank>Blur</a>, i / ili <a href=https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm target=_blank>uBlock Porijeklo</a> sa svim popisima pretplate na <a href=https://www.fanboy.co.nz/ target=_blank>fanboy stranica</a>"
+      "message": "Za više sveobuhvatanih blokada, provjerite <a href=https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij target=_blank>Ghostery</a>, <a href=https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo target=_blank>Odspoji</a>, <a href=https://chrome.google.com/webstore/detail/blur/epanfjkfahimkgomnigadpkobaefekcd target=_blank>Blur</a>, i / ili <a href=https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm target=_blank>uBlock Porijeklo</a> sa svim lista pretplata na <a href=https://www.fanboy.co.nz/ target=_blank>fanboy stranici</a>"
    },
    "audioblock": {
       "description": "Block Audio Fingerprinting:",
-      "message": "Blok Audio Identifikacija:"
+      "message": "Blokiraj Audio Identifikaciju:"
    },
    "audioblockdesc": {
       "description": "prevent fingerprinting via the AudioContext API",
-      "message": "sprijeciti otisaka putem AudioContext API"
+      "message": "spriječiti otisak prsta putem AudioContext API"
    },
    "battery": {
       "description": "Block Battery Fingerprinting:",
-      "message": "Blok Identifikacija Baterije:"
+      "message": "Blokiraj Identifikaciju Putem Baterije:"
    },
    "batterydesc": {
       "description": "prevent fingerprinting via the Battery API",
-      "message": "sprijeciti otisaka putem API-ja baterije"
+      "message": "spriječiti otisak prsta putem baterijskog API-ja"
    },
    "behavior": {
       "description": "Behaviour Settings",
-      "message": "Postavke Ponašanje"
+      "message": "Postavke Ponašanja"
    },
    "blockrec": {
       "description": "Block (recommended)",
-      "message": "Block (preporuceno)"
+      "message": "Blokiraj (preporučeno)"
    },
    "block": {
       "description": "Block",
-      "message": "Blok"
+      "message": "Blokiraj"
    },
    "blocked": {
       "description": "Blocked",
